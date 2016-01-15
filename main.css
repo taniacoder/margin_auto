@@ -1,0 +1,18 @@
+.uno {
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: 20px solid yellow;
+	width: 200px;
+	padding: 10px;
+}
+.dos {
+	margin: auto;
+	margin-top: 10px;
+	border: 20px solid yellow;
+	width: 200px;
+	padding: 10px;
+}
+
+.uno p {
+	text-align: center;
+}
